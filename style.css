@@ -110,3 +110,24 @@ p {
   <a href="olevel.html">O-Level Physics</a>
   <a href="alevel.html">A-Level Physics</a>
 </div>
+h2 {
+  text-align: center;
+  color: #2c3e50;
+  margin-top: 40px;
+}
+ul {
+  list-style-type: none;
+  padding: 0;
+  text-align: center;
+}
+ul li {
+  margin: 10px 0;
+}
+ul li a {
+  color: #2c3e50;
+  text-decoration: none;
+  font-weight: bold;
+}
+ul li a:hover {
+  color: #f39c12;
+}
