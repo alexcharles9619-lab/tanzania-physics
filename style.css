@@ -103,3 +103,10 @@ p {
 .home-links a:hover {
   background-color: #f39c12;   /* orange hover */
 }
+<h1>Welcome to Tanzania Physics Hub</h1>
+<p>Free resources for O-Level and A-Level Physics students in Tanzania.</p>
+
+<div class="home-links">
+  <a href="olevel.html">O-Level Physics</a>
+  <a href="alevel.html">A-Level Physics</a>
+</div>
