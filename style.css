@@ -131,3 +131,9 @@ ul li a {
 ul li a:hover {
   color: #f39c12;
 }
+img {
+  display: block;
+  margin: 20px auto;
+  border: 3px solid #2c3e50;
+  border-radius: 8px;
+}
