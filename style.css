@@ -185,10 +185,6 @@ button {
 button:hover {
   background: darkgreen;
 }
-.question-form {
-  width: 60%;
-  float: left;
-  padding: 20px;
-}
+
 
 
