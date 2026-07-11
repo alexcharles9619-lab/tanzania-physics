@@ -1,1 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://alexcharles9619-lab.github.io/sitemap.xml
 
