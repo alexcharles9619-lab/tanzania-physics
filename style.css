@@ -139,7 +139,7 @@ img {
 }
 .contact-info {
   position: fixed;   /* stays visible while scrolling */
-  bottom: 10px;      /* or use top: 10px for top corner */
+  top: 10px;      /* or use top: 10px for top corner */
   right: 10px;       /* distance from the right edge */
   text-align: right;
   font-size: 14px;
