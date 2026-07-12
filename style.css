@@ -185,6 +185,20 @@ button {
 button:hover {
   background: darkgreen;
 }
+/* Highlight Past Papers links */
+.navbar a[href*="pastpapers"] {
+  font-weight: bold;
+  color: #0077cc;
+  background-color: #f0f8ff;
+  padding: 6px 10px;
+  border-radius: 5px;
+  text-decoration: none;
+}
+
+.navbar a[href*="pastpapers"]:hover {
+  color: #ffffff;
+  background-color: #0077cc;
+}
 
 
 
