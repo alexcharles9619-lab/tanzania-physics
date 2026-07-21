@@ -199,6 +199,45 @@ button:hover {
   color: #ffffff;
   background-color: #0077cc;
 }
+/* Main heading */
+h1 {
+  text-align: center;
+  font-size: 28px;
+  margin-bottom: 30px;
+  color: #003366;
+}
+
+/* Ordered list for questions */
+ol {
+  list-style-type: decimal;
+  margin-left: 40px;
+  padding-left: 20px;
+}
+
+/* Each question block */
+ol li {
+  margin-bottom: 25px;
+  font-weight: bold;
+}
+
+/* Subparts inside questions */
+ol li p {
+  font-weight: normal;
+  margin: 5px 0 5px 15px;
+  line-height: 1.5;
+}
+
+/* Solution links */
+ol li a {
+  display: inline-block;
+  margin-top: 8px;
+  color: #0066cc;
+  text-decoration: none;
+}
+
+ol li a:hover {
+  text-decoration: underline;
+}
 
 
 
