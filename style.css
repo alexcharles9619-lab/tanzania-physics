@@ -238,67 +238,7 @@ ol li a {
 ol li a:hover {
   text-decoration: underline;
 }
-/* General page styling */
-body {
-  font-family: 'Roboto', sans-serif;
-  background-color: #f4f6f9;
-  color: #333;
-  margin: 0;
-  padding: 0;
-}
 
-/* Header */
-h1, h2 {
-  color: #004080;
-  text-align: center;
-  margin-top: 20px;
-}
-
-/* Navigation bar */
-nav {
-  background-color: #004080;
-  padding: 10px;
-  text-align: center;
-}
-nav a {
-  color: white;
-  margin: 0 15px;
-  text-decoration: none;
-  font-weight: bold;
-}
-nav a:hover {
-  text-decoration: underline;
-}
-
-/* Past paper list */
-ul {
-  list-style: none;
-  padding: 0;
-}
-li {
-  background: #fff;
-  margin: 10px;
-  padding: 15px;
-  border-radius: 6px;
-  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
-}
-li a {
-  color: #0066cc;
-  text-decoration: none;
-}
-li a:hover {
-  color: #004080;
-  text-decoration: underline;
-}
-
-/* Footer */
-footer {
-  background-color: #004080;
-  color: white;
-  text-align: center;
-  padding: 15px;
-  margin-top: 30px;
-}
 
 
 
