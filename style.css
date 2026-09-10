@@ -239,3 +239,16 @@ ol li a:hover {
   text-decoration: underline;
 }
 h
+.question {
+  background: #fff;
+  margin: 15px 0;
+  padding: 15px;
+  border-radius: 6px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+.question p {
+  margin: 5px 0;
+}
+.question strong {
+  color: #004080;
+}
